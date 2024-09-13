@@ -117,6 +117,16 @@ Triangle Perimeter: 20
 ## Conclusion 📄
 In this exercise, you defined variables to represent the dimensions of a rectangle and a triangle, used arithmetic expressions to calculate their area and perimeter, and logged the results to the console. This practice reinforces how to use variables and expressions effectively in JavaScript to perform basic geometric calculations.
 
+### Solution codebase 👀
+🛑 **Only use this as a reference** 🛑
+
+💾 **Not something to copy and paste** 💾
+
+**Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/aisd-jse-02-js-expressions/tree/solution) (link not shown).
+
 ---
 
 © All rights reserved to ThriveDX
+
+
+https://github.com/HackerUSA-CE/aisd-jse-02-js-expressions/tree/solution
